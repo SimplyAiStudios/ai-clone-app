@@ -1,0 +1,1 @@
+export type AppStep = 'upload' | 'payment' | 'generating' | 'results' | 'subscribe';
